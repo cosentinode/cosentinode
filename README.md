@@ -1,3 +1,4 @@
+
 <div align="center">
   <img src="https://github.com/cosentinode/cosentinode/blob/main/typingclear.gif" alt="Welcome!" />
 </div>
@@ -14,6 +15,10 @@
     <img src="https://img.shields.io/badge/Site-adriancosentino.com-006400?style=flat-square&logo=website&logoColor=white" alt="Website" />
   </a>
 </p>
+
+<br />
+
+---
 
 <br />
 
@@ -111,6 +116,10 @@
 
 <br />
 
+---
+
+<br />
+
 <p align="center">
   <img src="https://img.shields.io/badge/Jinja-B41717?style=flat-square&logo=jinja&logoColor=white" alt="Jinja" />
   <img src="https://img.shields.io/badge/WebSockets-111111?style=flat-square&logo=socketdotio&logoColor=white" alt="WebSockets" />
@@ -129,6 +138,10 @@
 
 <br />
 
+---
+
+<br />
+
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cosentinode&theme=nord_dark" alt="GitHub Profile Summary" />
-</div>
+<
