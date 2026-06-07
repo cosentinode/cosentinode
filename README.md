@@ -80,6 +80,6 @@
 
 <h1></h1>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=acozy03&locale=en&mode=daily&theme=nord&hide_border=true&border_radius=5&order=3" height="175" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=cosentinode&locale=en&mode=daily&theme=nord&hide_border=true&border_radius=5&order=3" height="175" alt="Streak Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=acozy03&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=nord&hide_border=true&order=2" height="175" alt="Top Languages" />
 </div>
